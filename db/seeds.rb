@@ -12,3 +12,5 @@ Character.create([
 	{ name: "Morpheus", description: "Trinity is first introduced at the beginning of The Matrix, in a phone conversation with Cypher, which is heard offscreen. " },
 	{ name: "Agent Smith", description: "Agent Smith is a fictional character and the main antagonist of The Matrix trilogy" },
 ])
+
+Vehicle.create({name: "Nebuchadnezzar", style: "Spaceship"})
