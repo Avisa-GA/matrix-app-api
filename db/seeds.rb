@@ -7,8 +7,8 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Character.create([
-	{ name: "Neo", description: false },
-	{ name: "Trinity", description: false },
-	{ name: "Morpheus", description: false },
-	{ name: "Agent Smith", description: false },
+	{ name: "Neo", description: " Neo is one of billions of humans neurally connected to the Matrix," },
+	{ name: "Trinity", description: "Morpheus is the captain of the Nebuchadnezzar, which is a hovercraft of the human forces of the last human city" },
+	{ name: "Morpheus", description: "Trinity is first introduced at the beginning of The Matrix, in a phone conversation with Cypher, which is heard offscreen. " },
+	{ name: "Agent Smith", description: "Agent Smith is a fictional character and the main antagonist of The Matrix trilogy" },
 ])
